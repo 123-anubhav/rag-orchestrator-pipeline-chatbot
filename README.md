@@ -94,6 +94,8 @@ At query time, the system evaluates retrieval relevance before deciding whether 
                          └─────────────────────────┘
 ```
 
+![rag pipeline](./RAG%20Pipeline_%20From%20Documents%20to%20Answers.png)
+
 ---
 
 # 🚀 What This Project Does
